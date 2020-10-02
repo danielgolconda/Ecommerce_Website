@@ -1,0 +1,198 @@
+@media only screen and (min-width: 768px) {
+	.dropdown:hover .dropdown-menu {
+		display: block;
+	}
+}
+/* style for mobile and index */
+.active{
+	color:#6ADE05;
+}
+#phonetext{
+	color:#CCCCCC;
+	font-size:20px;
+	padding-top:2px;
+}
+#phoneprice{
+	color:#000000;
+	padding-top:3px;
+}
+.cardeffect {
+	border: groove;
+	border-width: thin;
+	border-color: #A9A9A9;
+	border-radius: 8px;
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.cardeffectlarge {
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 45px;
+	padding-right: 45px;
+}
+.cardssection {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 20px;
+	padding-top: 10px;
+	padding-right: 20px;
+}
+
+.featuredsection {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 20px;
+	padding-top: 10px;
+	padding-right: 20px;
+}
+
+button:hover {
+	background-color: #002366;
+	color: #FFFFFF;
+}
+
+.list-group-item {
+	border: none;
+	margin: 0px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.list-group.inner {
+	border: none;
+	list-style-type: none;
+	margin: 0px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.dropdown-menu-center1 {
+	right: auto%;
+	left: 30%;
+	-webkit-transform: translate(-60%, 0);
+	-o-transform: translate(-60%, 0);
+	transform: translate(-60%, 0);
+}
+
+.dropdown-menu-center2 {
+	right: auto%;
+	left: 30%;
+	-webkit-transform: translate(-68%, 0);
+	-o-transform: translate(-68%, 0);
+	transform: translate(-68%, 0);
+}
+
+.dropdown-menu-center3 {
+	right: auto;
+	left: 30%;
+	-webkit-transform: translate(-76%, 0);
+	-o-transform: translate(-76%, 0);
+	transform: translate(-76%, 0);
+}
+
+.dropdown-menu-center4 {
+	right: auto;
+	left: 30%;
+	-webkit-transform: translate(-84%, 0);
+	-o-transform: translate(-84%, 0);
+	transform: translate(-84%, 0);
+}
+
+.dropdown-menu-center5 {
+	right: auto;
+	left: 30%;
+	-webkit-transform: translate(-92%, 0);
+	-o-transform: translate(-92%, 0);
+	transform: translate(-92%, 0);
+}
+
+#drops:hover {
+	background-color: #00FFFF;
+}
+
+#Header-list-text {
+	font-size: 18px;
+	text-align: left;
+	color: #000000;
+}
+
+.activecolor {
+	background-color: #00FFFF;
+	color: #FFFFFF;
+}
+
+.pathalign {
+	float: right;
+	text-align: center;
+	margin: auto;
+	padding-top: 10px;
+}
+
+.drawline {
+	margin-left: 2px;
+	width: 100px;
+	height: 10px;
+	padding-bottom: 10px;
+	border-top: 4px solid #6ADE05;
+}
+
+.exclusive {
+	margin-left: 5px;
+}
+
+.contain-images img {
+	width: 350px;
+	height: 200px
+}
+
+.card-image img {
+	width: 150px;
+	height: 150px;
+}
+
+.card-phone img {
+	width: 100px;
+	height: 150px;
+}
+
+.refine-headers {
+	border-bottom: 4px solid #A9A9A9;
+	color: #000000;
+	text-align: center;
+	background-color:#CCCCCC;
+}
+.stars{
+	padding-top:3px;
+}
+
+.Brand-boxes {
+	border: groove;
+	border-width: thin;
+	border-color: #A9A9A9;
+	border-radius: 4px;
+	padding-top:0px;
+	margin-top:8px;
+}
+.refine-checks{
+	padding-left:10px;
+	
+}
+.refine-section {
+	margin-left: 5px;
+}
+
+.explore-mobiles {
+	padding: 10px;
+	margin: 5px;
+}
+
+.bottom-nav-pagi {
+	text-align: center;
+}
+.checked {
+  color: #000010;
+}
